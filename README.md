@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**nguyentruongson203/nguyentruongson203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nguyen Truong Son, a student at the University of Economics - Technical Industries.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personal projects to improve my coding skills.
+- 🌱 I’m currently learning about web development and data structures.
+- 👯 I’m looking to collaborate on interesting open-source projects.
+- 🤔 I’m looking for help with machine learning and AI algorithms.
+- 💬 Ask me about C++, Java, and basic web technologies.
+- 📫 How to reach me: You can contact me via my student email, ntson.dhti15a10hn@sv.uneti.edu.vn
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love watching movies and playing chess in my free time.
